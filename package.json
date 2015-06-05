@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "concat-stream": "^1.4.8",
+    "hyperquest": "^1.2.0",
+    "webidl2": "^2.0.10"
+  },
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
